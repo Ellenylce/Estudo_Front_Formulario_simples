@@ -39,7 +39,11 @@ button{
     height: 50px;
     width: 100px;
     border-radius:5px;
-    cursor: pointer; /*cursor vira ponteiro*/
-    
-   
+    cursor: pointer; /*cursor vira ponteiro*/ 
+}
+
+.flex-center{
+    width: 100%;
+    display:flex;
+    justify-content: center;
 }
