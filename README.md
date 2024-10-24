@@ -39,4 +39,7 @@ Alguns pontos que pretendo explorar e melhorar em outros projetos futuros semelh
 - Melhoria na responsividade do layout para diferentes tamanhos de tela.
 - Adicionar animações sutis com CSS.
 
-Nota: Este é um projeto simples e educativo. Novos aprendizados e recursos mais avançados serão adicionados conforme eu continuar evoluindo nos estudos, porém, adicionados em outros projetos. Esse projeto em si, serve como referência da minha evolução ao decorrer de meus estudos e dedicação.
+
+
+> **Nota**: Este é um projeto simples e educativo. Novos aprendizados e recursos mais avançados serão adicionados conforme eu continuar evoluindo nos estudos, porém, adicionados em outros projetos. Esse projeto em si, serve como referência da minha evolução ao decorrer de meus estudos e dedicação.
+
