@@ -19,7 +19,7 @@ Este projeto tem como objetivo aplicar conceitos fundamentais de desenvolvimento
 - Campo de mensagem para o usuário enviar um texto.
 
 ## 🌐 Acesse o site
-Você pode visualizar a interface do site [clicando aqui](https://ellenylce.github.io/Estudo_Formulario_simples/).
+Você pode visualizar a interface do site [clicando aqui](https://ellenylce.github.io/Estudo_Front_Formulario_simples/)).
 
 ## 📚 Aprendizados
 Durante o desenvolvimento deste projeto, aprofundei meus conhecimentos em:
